@@ -11,3 +11,4 @@ for_convert/geographic_data.xml
 for_convert/financial_ratios.jsonl
 for_model/dataset_for_models.csv
 .idea
+for_model/model1.ipynb

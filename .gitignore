@@ -1,8 +1,7 @@
 .env
 venv
 .venv
-cleaned_data/final_dataset.csv
-converted_csv
+converted_csv/
 for_convert/application_metadata.csv
 for_convert/demographics.csv
 for_convert/credit_history.parquet
@@ -10,4 +9,6 @@ for_convert/loan_details.xlsx
 for_convert/geographic_data.xml
 for_convert/financial_ratios.jsonl
 for_model/dataset_for_models.csv
+cleaned_data/final_dataset.csv
+result/
 .idea
